@@ -77,5 +77,5 @@ de l'activité via des requêtes SQL.
 
 ## 👩‍💻 Auteure
 
-**Noor Seba** – Étudiante en Master Épidémiologie, Données de Santé & Biostatistique
+**Noor Seba** – Étudiante en M2 Épidémiologie, Données de Santé & Biostatistique (parcours Data Analyst), Université de Montpellier
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noor%20Seba-blue?logo=linkedin)](https://www.linkedin.com/in/noor-seba-260685369)
